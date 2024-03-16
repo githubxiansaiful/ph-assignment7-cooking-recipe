@@ -4,7 +4,7 @@ const Recipe = ({ recipeeee, handleCookButton }) => {
 
     return (
         <div className="border border-[#f1f1f1] p-5 rounded-xl">
-            <div>
+            <div className="recipe-image">
                 <img className="rounded-xl" src={recipe_image} alt="" />
             </div>
             <div className="mt-5 mb-5 border-b border-[#f1f1f1] pb-5">

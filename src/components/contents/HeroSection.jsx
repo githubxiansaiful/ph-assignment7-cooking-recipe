@@ -2,7 +2,7 @@ const HeroSection = () => {
     return (
         <div>
             <div className="container">
-                <div className="hero rounded-[24px] overflow-hidden" style={{ backgroundImage: 'url(../public/images/hero-bg.jpg)' }}>
+                <div className="hero rounded-[24px] overflow-hidden" style={{ backgroundImage: 'url(https://i.ibb.co/g9s6CQC/hero-bg.jpg)' }}>
                     <div className="hero-overlay bg-opacity-60"></div>
                     <div className="hero-content text-center text-neutral-content">
                         <div className="max-w-[840px] pt-[80px] pb-[80px]">

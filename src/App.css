@@ -45,3 +45,10 @@ body .container {
 .ingredients-lists li:last-child {
     margin-bottom: 0;
 }
+@media all and (min-width: 768px) {
+    .recipe-image {
+        overflow: hidden;
+        max-height: 200px;
+        border-radius: 16px;
+    }
+}
