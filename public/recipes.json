@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Chicken Stir Fry",
+      "short_description": "A delicious and healthy chicken stir fry with vegetables.",
+      "ingredients": ["550g chicken", "120ml soy sauce", "200g basil leaves", "400g mushrooms"],
+      "preparing_time": "30 min",
+      "calories": "320 calories",
+      "recipe_image": "https://images.pexels.com/photos/16510619/pexels-photo-16510619/free-photo-of-top-view-of-roasted-chicken-on-a-pan-with-fresh-vegetables-lying-around-on-the-table.jpeg"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Pasta",
+      "short_description": "A classic pasta dish packed with fresh vegetables.",
+      "ingredients": ["400g pasta", "250g cherry tomatoes", "150g spinach", "100g parmesan cheese"],
+      "preparing_time": "25 min",
+      "calories": "280 calories",
+      "recipe_image": "https://images.pexels.com/photos/1487511/pexels-photo-1487511.jpeg"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Juicy grilled salmon fillets seasoned with herbs.",
+      "ingredients": ["4 salmon fillets", "2 lemons", "50g butter", "1 tbsp dill"],
+      "preparing_time": "20 min",
+      "calories": "350 calories",
+      "recipe_image": "https://images.pexels.com/photos/725991/pexels-photo-725991.jpeg"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Capers Salad",
+      "short_description": "A refreshing salad with tomatoes, mozzarella, and basil.",
+      "ingredients": ["4 large tomatoes", "250g fresh mozzarella", "1 bunch of basil", "2 tbsp balsamic vinegar"],
+      "preparing_time": "15 min",
+      "calories": "200 calories",
+      "recipe_image": "https://images.pexels.com/photos/16946668/pexels-photo-16946668/free-photo-of-salad-meal-on-plate.jpeg"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Banana Bread",
+      "short_description": "Homemade banana bread, moist and flavorful.",
+      "ingredients": ["3 ripe bananas", "200g flour", "100g sugar", "1 tsp baking soda"],
+      "preparing_time": "60 min",
+      "calories": "220 calories",
+      "recipe_image": "https://images.pexels.com/photos/5441027/pexels-photo-5441027.jpeg"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Greek Salad",
+      "short_description": "A classic Greek salad with cucumbers, tomatoes, and feta cheese.",
+      "ingredients": ["2 cucumbers", "4 tomatoes", "200g feta cheese", "1 red onion"],
+      "preparing_time": "10 min",
+      "calories": "180 calories",
+      "recipe_image": "https://images.pexels.com/photos/434258/pexels-photo-434258.jpeg"
+    }
+  ]
+  
